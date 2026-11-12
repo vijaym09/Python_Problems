@@ -11,7 +11,9 @@ This repository contains my **Python practice questions and solutions**, from ba
 * Loops & Conditions
 * Functions
 * OOP
-* Exception Handling
+* Numpy
+* Pandas
+* Exception Handling 
 * File Handling
 * Advanced Python Concepts
 

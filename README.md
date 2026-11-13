@@ -4,6 +4,7 @@ This repository contains my **Python practice questions and solutions**, from ba
 
 ## Topics
 
+
 * Python Basics
 * Strings
 * Lists, Tuples & Sets
@@ -16,6 +17,7 @@ This repository contains my **Python practice questions and solutions**, from ba
 * Exception Handling 
 * File Handling
 * Advanced Python Concepts
+
 
 ## Goal
 
